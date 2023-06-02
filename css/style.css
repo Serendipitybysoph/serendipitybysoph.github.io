@@ -2793,7 +2793,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 
 /* line 589, ../scss/style.scss */
 #page-content.has-fixed-top {
-  padding-top: 90px;
+  padding-top: 40px;
 }
 
 /* line 593, ../scss/style.scss */
